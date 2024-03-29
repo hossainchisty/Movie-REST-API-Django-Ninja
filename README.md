@@ -11,7 +11,7 @@ The Movie Database Web Application is a Django-based platform designed to manage
 
 ### Setup Instructions
 
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone https://github.com/hossainchisty/Movie-REST-API-Django-Ninja.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Apply migrations: `python manage.py migrate`
 4. Run the development server: `python manage.py runserver`
@@ -20,8 +20,8 @@ The Movie Database Web Application is a Django-based platform designed to manage
 
 Alternatively, you can use Docker to set up the project:
 
-1. Clone the repository: `git clone <repository_url>`
-2. Navigate to the project directory: `cd movie-recommendation-system`
+1. Clone the repository: `git clone https://github.com/hossainchisty/Movie-REST-API-Django-Ninja.git>`
+2. Navigate to the project directory: `cd Movie-REST-API-Django-Ninja`
 3. Build the Docker images: `docker-compose build`
 4. Run the Docker containers: `docker-compose up`
 
